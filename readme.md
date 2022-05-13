@@ -1,5 +1,5 @@
-## Finaance-Ed
-An educational website for students and programmers 😊😊😊   
+## Finance-Ed
+An educational website for all kinds of people to earn and learn😊😊😊   
   
 ✔ We have made this website as responsive website so,  users can  
    easily access our website from  any device.  
